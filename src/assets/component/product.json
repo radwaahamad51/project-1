@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Soccer Ball",
+    "category": "Soccer",
+    "price": 25.99,
+     "description": "A high-quality soccer ball perfect for matches and training."
+  },
+  {
+    "id": 2,
+    "name": "Tennis Racket",
+    "category": "Tennis",
+    "price": 75.50,
+    "description": "A lightweight tennis racket designed for players of all levels."
+  },
+  {
+    "id": 3,
+    "name": "Basketball",
+    "category": "Basketball",
+    "price": 45.00,
+    "description": "A durable basketball suitable for indoor and outdoor courts."
+  },
+  {
+    "id": 4,
+    "name": "Baseball Glove",
+    "category": "Baseball",
+    "price": 35.25,
+    "description": "A premium leather baseball glove for better grip and performance."
+  },
+  {
+    "id": 5,
+    "name": "Swimming Goggles",
+    "category": "Swimming",
+    "price": 19.99,
+    "description": "Comfortable and anti-fog swimming goggles for enhanced vision."
+  },
+  {
+    "id": 6,
+    "name": "Cycling Helmet",
+    "category": "Cycling",
+    "price": 49.99,
+    "description": "A sturdy cycling helmet designed for maximum safety and comfort."
+  },
+  {
+    "id": 7,
+    "name": "Cricket Bat",
+    "category": "Cricket",
+    "price": 89.99,
+    "description": "A professional-grade cricket bat made for superior performance."
+  },
+  {
+    "id": 8,
+    "name": "Volleyball",
+    "category": "Volleyball",
+    "price": 29.99,
+    "description": "A lightweight volleyball designed for both recreational and competitive play."
+  },
+  {
+    "id": 9,
+    "name": "Hockey Stick",
+    "category": "Hockey",
+    "price": 59.99,
+    "description": "A durable hockey stick suitable for players of all skill levels."
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 22.50,
+    "description": "A comfortable and non-slip yoga mat ideal for fitness routines."
+  }
+]
