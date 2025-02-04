@@ -1,8 +1,50 @@
-# React + Vite
+Sport Equipment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Project Overview
 
-Currently, two official plugins are available:
+Sport Equipment is a React.js web application designed for browsing and purchasing various sports equipment. It features Firebase Authentication for user management, styled with Tailwind CSS and DaisyUI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+
+User Authentication: Sign up, login, and logout with Firebase Authentication
+
+Responsive Design: Styled using Tailwind CSS & DaisyUI
+
+Product Listing: Display sports equipment with categories
+
+Cart & Wishlist: Add items to cart and wishlist
+
+Dashboard: User-specific dashboard for managing purchases
+
+Sorting & Filtering: Browse products with sorting & filtering options
+
+🛠️ Technologies Used
+
+React.js - Frontend framework
+
+Firebase Authentication - User authentication
+
+Tailwind CSS - Styling framework
+
+DaisyUI - UI components for styling
+
+React Router - Navigation & routing
+
+🏆 Skills
+
+🔹 Frontend
+
+
+🔹 Backend
+
+🔹 Tools
+
+
+
+
+
+🔗 Social Links
+
+https://deft-sherbet-da147b.netlify.app/
+
+📊 GitHub Stats
